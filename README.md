@@ -6,12 +6,12 @@
 
 | 日期 | 标题 | 配套项目 |
 | --- | --- | --- |
+| 2026-10-26 | [零依赖写一个多智能体编排库：mini-agents 设计记](articles/2026-10-26-mini-agents-design.md) | [@ordeal/mini-agents](https://www.npmjs.com/package/@ordeal/mini-agents) |
 | 2026-10-26 | [零 API Key 的 AI Demo：让全栈 Agent 应用"空配置也能完整体验"](articles/2026-10-26-zero-key-demo.md) | [agent-workbench](https://github.com/rwzdk/agent-workbench) · [rag-knowledge-base](https://github.com/rwzdk/rag-knowledge-base) |
 | 2026-10-26 | [中文 RAG 检索不想只靠向量：手写 BM25 + RRF 混合检索，用 hit@3 / MRR 证明它有效](articles/2026-10-26-rag-hybrid-retrieval.md) | [rag-knowledge-base](https://github.com/rwzdk/rag-knowledge-base) |
 
 ## 写作计划
 
-- [ ] 零依赖写一个多智能体编排库：mini-agents 设计记
 - [ ] 给 Agent 挂上探照灯：全栈项目接入可观测
 
 ## 关于我
